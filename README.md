@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @oneharry
-- 👀 I’m interested in backend development, Node stack, PHP.
-- 🌱 I’m currently learning Node JS
-- 💞️ I’m looking to collaborate on ExpressJS, Axios and Strapi
+- 👀 
 - 📫 How to reach me ... emial me harryofficialchidi@yahoo.com
 
 <!---
