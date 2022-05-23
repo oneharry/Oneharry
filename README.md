@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @oneharry
-- 👀 
-- 📫 How to reach me ... emial me harryofficialchidi@yahoo.com
+## 👷 Full stack | Blockchain developer
+### 📫 Email... harryofficialchidi@yahoo.com
 
 <!---
 oneharry/oneharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
