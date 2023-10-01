@@ -1,5 +1,5 @@
-## 👷 Full stack | Blockchain developer
-### 📫 Email... harryofficialchidi@yahoo.com
+## 👷 Software Engineer
+### Javascript | Python | C
 
 <!---
 oneharry/oneharry is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
